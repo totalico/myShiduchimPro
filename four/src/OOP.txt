@@ -1,0 +1,9 @@
+
+
+singelton-pattern
+====================
+
+1) make private constractor
+2) instatied by static func
+3) called to this func:
+

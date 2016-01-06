@@ -1,0 +1,3 @@
+# Module four
+# RPC service class, partial path of RPC policy file
+four.client.userReg, 58D3E11286E6C17FD854998F23D3C1C7.gwt.rpc

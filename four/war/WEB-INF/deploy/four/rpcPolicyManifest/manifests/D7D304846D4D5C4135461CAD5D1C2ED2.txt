@@ -1,0 +1,2 @@
+serviceClass: four.client.userReg
+path: 58D3E11286E6C17FD854998F23D3C1C7.gwt.rpc

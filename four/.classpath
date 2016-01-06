@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="war/META-INF"/>
+	<classpathentry kind="src" output="test-classes" path="test"/>
+	<classpathentry kind="lib" path="C:/java/apache-log4j-2.3-bin/apache-log4j-2.3-bin/log4j-core-2.3.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/java/apache-log4j-2.3-bin/apache-log4j-2.3-bin/log4j-core-2.3-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/java/apache-log4j-2.3-bin/apache-log4j-2.3-bin/log4j-1.2-api-2.3.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/java/apache-log4j-2.3-bin/apache-log4j-2.3-bin/log4j-1.2-api-2.3-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/java/jars/DB connection/mysql-connector-java-5.1.30-bin.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_45">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/java/hibernate-release-4.2.4.Final/lib/jpa/hibernate-entitymanager-4.2.4.Final.jar"/>
+	<classpathentry kind="lib" path="C:/java/hibernate-release-4.2.4.Final/lib/required/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/java/hibernate-release-4.2.4.Final/lib/required/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/java/hibernate-release-4.2.4.Final/lib/required/hibernate-commons-annotations-4.0.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/java/hibernate-release-4.2.4.Final/lib/required/hibernate-core-4.2.4.Final.jar"/>
+	<classpathentry kind="lib" path="C:/java/hibernate-release-4.2.4.Final/lib/required/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/java/hibernate-release-4.2.4.Final/lib/required/javassist-3.15.0-GA.jar"/>
+	<classpathentry kind="lib" path="C:/java/hibernate-release-4.2.4.Final/lib/required/jboss-logging-3.1.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/java/hibernate-release-4.2.4.Final/lib/required/jboss-transaction-api_1.1_spec-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="lib/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-commons-annotations-4.0.2.Final.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-core-4.2.4.Final.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="lib/javassist-3.15.0-GA.jar"/>
+	<classpathentry kind="lib" path="lib/jboss-logging-3.1.0.GA.jar"/>
+	<classpathentry kind="lib" path="lib/jboss-transaction-api_1.1_spec-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-entitymanager-4.2.4.Final.jar"/>
+	<classpathentry kind="lib" path="C:/java/gwt-2.7.0/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="con" path="com.google.gwt.eclipse.core.GWT_CONTAINER/gwt-2.7.0"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>
